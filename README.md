@@ -1,5 +1,5 @@
-#Kokoa Clone 2022 Update
+# Kokoa Clone 2022 Update
 
-HTML & CSS are so much fun !!
+So much fun!!!
 
-I like it !!
+HTML & CSS
